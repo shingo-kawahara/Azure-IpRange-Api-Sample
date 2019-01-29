@@ -1,4 +1,4 @@
-package jp.co.saison.azureiprangeapi;
+package com.azureiprangeapi;
 
 import java.net.Authenticator;
 import java.net.PasswordAuthentication;

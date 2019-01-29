@@ -1,4 +1,4 @@
-package jp.co.saison.azureiprangeapi;
+package com.azureiprangeapi;
 
 import java.io.IOException;
 import java.net.URL;
